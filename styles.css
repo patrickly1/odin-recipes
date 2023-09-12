@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(200, 160, 130)
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin: 20px;
+}
+
